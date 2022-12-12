@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Pasca_Denisa_Lab7.ListPage"
              Title="ListPage">
-    <ContentPage.Content xmlns:local="clr-namespace:Pasca_Denisa_Lab7">
+    <ContentPage.Content xmlns:local="clr-namespace:Pasca_Denisa_Lab7.Models">
         
     
         <StackLayout Margin="20">
